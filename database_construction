@@ -1,0 +1,19 @@
+Okay now lets think about database:
+
+
+What I have in my current database (swatPLCdb):
+1. SPCchecker:
+	- id	module	 ano tag_name	  tag_value
+2) anomalies:
+	- id	tag_name	tag_value(run-time)
+3) data01:
+	- data  Transaction_id	tag_name   tag_value(run-time)
+
+
+For the newer version of the software:
+Requirement:
+- flexible
+- general
+- configurable
+- user friendly
+- at least has 2 tables in database
