@@ -1,0 +1,10 @@
+Secure Water Treatment Attack Detection
+
+User Interface Design:
+- PLC name (System)
+- IP address
+- tag name
+- tag type: constant / variable
+- tag value
+- tag max value
+- tag min value
